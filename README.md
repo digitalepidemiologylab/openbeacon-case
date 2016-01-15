@@ -1,6 +1,8 @@
 # openbeacon-case
 ##OpenBeacon proximity tag case##
 
+![alt tag](Preview.png)
+
 Taking part in a study involving 70 participants, and having no available case fitting our needs for the proximity tag we'd use, we decided to design our own.
 
 Technical details about the tag can be found on [OpenBeacon.org](http://get.openbeacon.org/device.html#download).
