@@ -20,3 +20,16 @@ We didn't need a case:
 - that could resist huge shocks
 - that could be used outdoors
 - that could be used for years
+
+**3D-Printing**
+
+The case was printed at the [Centre universitaire d'informatique](http://www.cui.unige.ch/en/), Geneva University by a Stratasys [Objet260](http://www.stratasys.com/3d-printers/design-series/objet260-connex1). Thanks to Daniel Agulleiro for his great advices and help.
+
+![alt tag](CaseEuroFront.jpg)
+![alt tag](CaseEuroBack.jpg)
+![alt tag](CaseEuroSide.jpg)
+
+**Signal attenuation**
+
+A rapid set of test measurements done at the [ISI Foundation](http://www.isi.it) in Torino, with and without the case, seemed to show that, despite being measurable, the signal attenutation by the case would not affect the quality of the interaction measurements.
+
