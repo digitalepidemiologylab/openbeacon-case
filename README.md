@@ -40,7 +40,8 @@ Cases are printed in rows. Time to print is roughly proportional to the number o
 
 Each part must then be cleaned.
 
-![alt tag](BaseBeforeCleaning.jpg)![alt tag](Karcher.jpg)
+![alt tag](BaseBeforeCleaning.jpg)
+![alt tag](Karcher.jpg)
 
 **Signal attenuation**
 
