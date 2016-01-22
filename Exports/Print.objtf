@@ -1,0 +1,1554 @@
+GraffitiV01.00APC                                             
+Scen V01.00 Id 1 Parent 0 Size 1
+Name Test2
+Att2 V01.00 Id 2 Parent 1 Size 3
+Category MODEL
+Name ModelType
+Value 33
+Att2 V01.00 Id 3 Parent 1 Size 3
+Category MODEL
+Name ModelUnits
+Value 1000
+Att2 V01.00 Id 4 Parent 1 Size 3
+Category MODEL
+Name UseUnits
+Value 1
+Att2 V01.00 Id 5 Parent 1 Size 3
+Category MODEL
+Name Template
+Value ${GR_ROOT}\template\models\10Inch Connex500.objtf
+Att2 V01.00 Id 6 Parent 1 Size 3
+Category IMAGE
+Name Width
+Value 320
+Att2 V01.00 Id 7 Parent 1 Size 3
+Category IMAGE
+Name Height
+Value 240
+Att2 V01.00 Id 8 Parent 1 Size 3
+Category IMAGE
+Name Dithering
+Value 1
+Att2 V01.00 Id 9 Parent 1 Size 3
+Category BACKGROUND
+Name Type
+Value 1
+Att2 V01.00 Id 10 Parent 1 Size 3
+Category BACKGROUND
+Name Red
+Value 0.0
+Att2 V01.00 Id 11 Parent 1 Size 3
+Category BACKGROUND
+Name Green
+Value 0.0
+Att2 V01.00 Id 12 Parent 1 Size 3
+Category BACKGROUND
+Name Blue
+Value 0.0
+Att2 V01.00 Id 13 Parent 1 Size 3
+Category BACKGROUND
+Name TextureName
+Value None
+Att2 V01.00 Id 14 Parent 1 Size 3
+Category BACKGROUND
+Name SkyName
+Value None
+Att2 V01.00 Id 15 Parent 1 Size 3
+Category ATMOSPHERE
+Name HazeColorR
+Value 1.0
+Att2 V01.00 Id 16 Parent 1 Size 3
+Category ATMOSPHERE
+Name HazeColorG
+Value 1.0
+Att2 V01.00 Id 17 Parent 1 Size 3
+Category ATMOSPHERE
+Name HazeColorB
+Value 1.0
+Att2 V01.00 Id 18 Parent 1 Size 3
+Category ATMOSPHERE
+Name AmbientR
+Value 0.1
+Att2 V01.00 Id 19 Parent 1 Size 3
+Category ATMOSPHERE
+Name AmbientG
+Value 0.1
+Att2 V01.00 Id 20 Parent 1 Size 3
+Category ATMOSPHERE
+Name AmbientB
+Value 0.1
+Att2 V01.00 Id 21 Parent 1 Size 3
+Category IMG_QUALITY
+Name SamplesPerPixel
+Value 1
+Att2 V01.00 Id 22 Parent 1 Size 3
+Category IMG_QUALITY
+Name RtAdaptiveSamplesPerPixel
+Value 1
+Att2 V01.00 Id 23 Parent 1 Size 3
+Category IMG_QUALITY
+Name RtRayDepth
+Value 6
+Att2 V01.00 Id 24 Parent 1 Size 3
+Category IMG_QUALITY
+Name RtAcceleration
+Value 6
+Att2 V01.00 Id 25 Parent 1 Size 3
+Category IMG_QUALITY
+Name RenderingMode
+Value 4
+Att2 V01.00 Id 26 Parent 1 Size 3
+Category IMG_QUALITY
+Name RenderSamplesPerPixel
+Value 1
+Att2 V01.00 Id 27 Parent 1 Size 3
+Category IMG_QUALITY
+Name RenderShadowsLevel
+Value 300 400
+Att2 V01.00 Id 28 Parent 1 Size 3
+Category GENERAL
+Name ReflectionFlg
+Value 1
+Att2 V01.00 Id 29 Parent 1 Size 3
+Category GENERAL
+Name TransparencyFlg
+Value 1
+Att2 V01.00 Id 30 Parent 1 Size 3
+Category GENERAL
+Name ShadowsFlg
+Value 1
+Att2 V01.00 Id 31 Parent 1 Size 3
+Category Summary
+Name Product
+Value Objet Studio
+Att2 V01.00 Id 32 Parent 1 Size 3
+Category Summary
+Name Version
+Value Version 12.0 Release (Build 1707), June-2009
+Att2 V01.00 Id 33 Parent 1 Size 3
+Category Summary
+Name HaspName
+Value DEMO
+Att2 V01.00 Id 34 Parent 1 Size 3
+Category Summary
+Name HaspSN
+Value Objet
+Att2 V01.00 Id 35 Parent 1 Size 3
+Category Summary
+Name HaspID
+Value cda759d
+Att2 V01.00 Id 36 Parent 1 Size 3
+Category Carpet
+Name Send Carpet
+Value 2
+Att2 V01.00 Id 37 Parent 1 Size 3
+Category Carpet
+Name Carpet Thicken
+Value 1.00
+Att2 V01.00 Id 38 Parent 1 Size 3
+Category Carpet
+Name Carpet Height
+Value 0.050
+Att2 V01.00 Id 39 Parent 1 Size 3
+Category Carpet
+Name Protector XY
+Value 0.00
+Att2 V01.00 Id 40 Parent 1 Size 3
+Category Carpet
+Name Protector Z
+Value 0.200
+Att2 V01.00 Id 41 Parent 1 Size 3
+Category Carpet
+Name Top Protector Z
+Value 1
+Att2 V01.00 Id 42 Parent 1 Size 3
+Category Carpet
+Name Carpet Grid width
+Value 0.500
+Att2 V01.00 Id 43 Parent 1 Size 3
+Category Carpet
+Name Carpet Grid type
+Value 0
+Att2 V01.00 Id 44 Parent 1 Size 3
+Category Improve support
+Name Separate Pedestal
+Value 0.000
+Att2 V01.00 Id 45 Parent 1 Size 3
+Category Improve support
+Name Build Pedestal
+Value 1
+Att2 V01.00 Id 46 Parent 1 Size 3
+Category Improve support
+Name Pedestal Height
+Value 1.00
+Att2 V01.00 Id 47 Parent 1 Size 3
+Category Improve support
+Name Build Style
+Value 2
+Att2 V01.00 Id 48 Parent 1 Size 3
+Category Improve support
+Name Thick Matte
+Value 1.600000, 1.000000, 10
+Att2 V01.00 Id 49 Parent 1 Size 3
+Category Improve support
+Name Thick Satin
+Value 1.610000, 1.000000, 0
+Att2 V01.00 Id 50 Parent 1 Size 3
+Category Improve support
+Name Thick FullGlossy
+Value 1.000000
+Att2 V01.00 Id 51 Parent 1 Size 3
+Category Improve support
+Name Gloss Angle
+Value 89.00
+Att2 V01.00 Id 52 Parent 1 Size 3
+Category Improve support
+Name Matte Angle
+Value 0.00
+Att2 V01.00 Id 53 Parent 1 Size 3
+Category Improve support
+Name Type support
+Value 2
+Att2 V01.00 Id 54 Parent 1 Size 3
+Category Improve support
+Name Grid Style
+Value 0
+Att2 V01.00 Id 55 Parent 1 Size 3
+Category Improve support
+Name Grid Resin
+Value 0
+Att2 V01.00 Id 56 Parent 1 Size 3
+Category Process
+Name Resolution Y
+Value 600
+Att2 V01.00 Id 57 Parent 1 Size 3
+Category Standard Grid
+Name Grid type
+Value 4
+Att2 V01.00 Id 58 Parent 1 Size 3
+Category Standard Grid
+Name Grid WidthX
+Value 0.40
+Att2 V01.00 Id 59 Parent 1 Size 3
+Category Standard Grid
+Name Grid WidthY
+Value 0.40
+Att2 V01.00 Id 60 Parent 1 Size 3
+Category Standard Grid
+Name Grid WidthZ
+Value 2.00
+Att2 V01.00 Id 61 Parent 1 Size 3
+Category Standard Grid
+Name Grid SpaceX
+Value 0.40
+Att2 V01.00 Id 62 Parent 1 Size 3
+Category Standard Grid
+Name Grid SpaceY
+Value 0.40
+Att2 V01.00 Id 63 Parent 1 Size 3
+Category Standard Grid
+Name Grid SpaceZ
+Value 0.20
+Att2 V01.00 Id 64 Parent 1 Size 3
+Category Standard Grid
+Name Apply Fine Grid
+Value 1
+Att2 V01.00 Id 65 Parent 1 Size 3
+Category Standard Grid
+Name Fine Grid Space
+Value 0.17
+Att2 V01.00 Id 66 Parent 1 Size 3
+Category Standard Grid
+Name Fine Grid Width
+Value 0.09
+Att2 V01.00 Id 67 Parent 1 Size 3
+Category Standard Grid
+Name Fine Grid Thick X&Y
+Value 0.00
+Att2 V01.00 Id 68 Parent 1 Size 3
+Category Standard Grid
+Name Fine Grid Thick Z
+Value 0.60
+Att2 V01.00 Id 69 Parent 1 Size 3
+Category Standard Grid
+Name Interface WidthX
+Value 0.45
+Att2 V01.00 Id 70 Parent 1 Size 3
+Category Standard Grid
+Name Interface WidthZ
+Value 0.00
+Att2 V01.00 Id 71 Parent 1 Size 3
+Category Standard Grid
+Name Interface WidthZ Up
+Value 0.00
+Att2 V01.00 Id 72 Parent 1 Size 3
+Category Heavy Grid
+Name Grid type
+Value 4
+Att2 V01.00 Id 73 Parent 1 Size 3
+Category Heavy Grid
+Name Grid WidthX
+Value 1.00
+Att2 V01.00 Id 74 Parent 1 Size 3
+Category Heavy Grid
+Name Grid WidthY
+Value 1.00
+Att2 V01.00 Id 75 Parent 1 Size 3
+Category Heavy Grid
+Name Grid WidthZ
+Value 2.00
+Att2 V01.00 Id 76 Parent 1 Size 3
+Category Heavy Grid
+Name Grid SpaceX
+Value 0.85
+Att2 V01.00 Id 77 Parent 1 Size 3
+Category Heavy Grid
+Name Grid SpaceY
+Value 0.85
+Att2 V01.00 Id 78 Parent 1 Size 3
+Category Heavy Grid
+Name Grid SpaceZ
+Value 0.20
+Att2 V01.00 Id 79 Parent 1 Size 3
+Category Heavy Grid
+Name Apply Fine Grid
+Value 1
+Att2 V01.00 Id 80 Parent 1 Size 3
+Category Heavy Grid
+Name Fine Grid Space
+Value 0.17
+Att2 V01.00 Id 81 Parent 1 Size 3
+Category Heavy Grid
+Name Fine Grid Width
+Value 0.09
+Att2 V01.00 Id 82 Parent 1 Size 3
+Category Heavy Grid
+Name Fine Grid Thick X&Y
+Value 0.00
+Att2 V01.00 Id 83 Parent 1 Size 3
+Category Heavy Grid
+Name Fine Grid Thick Z
+Value 0.60
+Att2 V01.00 Id 84 Parent 1 Size 3
+Category Heavy Grid
+Name Interface WidthX
+Value 0.35
+Att2 V01.00 Id 85 Parent 1 Size 3
+Category Heavy Grid
+Name Interface WidthZ
+Value 0.00
+Att2 V01.00 Id 86 Parent 1 Size 3
+Category Heavy Grid
+Name Interface WidthZ Up
+Value 0.00
+Att2 V01.00 Id 87 Parent 1 Size 3
+Category Lite Grid
+Name Grid type
+Value 4
+Att2 V01.00 Id 88 Parent 1 Size 3
+Category Lite Grid
+Name Grid WidthX
+Value 0.09
+Att2 V01.00 Id 89 Parent 1 Size 3
+Category Lite Grid
+Name Grid WidthY
+Value 0.17
+Att2 V01.00 Id 90 Parent 1 Size 3
+Category Lite Grid
+Name Grid WidthZ
+Value 2.00
+Att2 V01.00 Id 91 Parent 1 Size 3
+Category Lite Grid
+Name Grid SpaceX
+Value 0.25
+Att2 V01.00 Id 92 Parent 1 Size 3
+Category Lite Grid
+Name Grid SpaceY
+Value 0.25
+Att2 V01.00 Id 93 Parent 1 Size 3
+Category Lite Grid
+Name Grid SpaceZ
+Value 0.20
+Att2 V01.00 Id 94 Parent 1 Size 3
+Category Lite Grid
+Name Apply Fine Grid
+Value 1
+Att2 V01.00 Id 95 Parent 1 Size 3
+Category Lite Grid
+Name Fine Grid Space
+Value 0.17
+Att2 V01.00 Id 96 Parent 1 Size 3
+Category Lite Grid
+Name Fine Grid Width
+Value 0.09
+Att2 V01.00 Id 97 Parent 1 Size 3
+Category Lite Grid
+Name Fine Grid Thick X&Y
+Value 0.00
+Att2 V01.00 Id 98 Parent 1 Size 3
+Category Lite Grid
+Name Fine Grid Thick Z
+Value 0.60
+Att2 V01.00 Id 99 Parent 1 Size 3
+Category Lite Grid
+Name Interface WidthX
+Value 0.35
+Att2 V01.00 Id 100 Parent 1 Size 3
+Category Lite Grid
+Name Interface WidthZ
+Value 0.00
+Att2 V01.00 Id 101 Parent 1 Size 3
+Category Lite Grid
+Name Interface WidthZ Up
+Value 0.00
+Att2 V01.00 Id 102 Parent 1 Size 3
+Category Grid
+Name Pedestal Grid widthX
+Value 0.09
+Att2 V01.00 Id 103 Parent 1 Size 3
+Category Grid
+Name Pedestal Grid widthY
+Value 0.09
+Att2 V01.00 Id 104 Parent 1 Size 3
+Category Grid
+Name Pedestal Grid widthZ
+Value 1.00
+Att2 V01.00 Id 105 Parent 1 Size 3
+Category Grid
+Name Pedestal Grid spaceX
+Value 0.17
+Att2 V01.00 Id 106 Parent 1 Size 3
+Category Grid
+Name Pedestal Grid spaceY
+Value 0.17
+Att2 V01.00 Id 107 Parent 1 Size 3
+Category Grid
+Name Pedestal Grid spaceZ
+Value 0.00
+Att2 V01.00 Id 108 Parent 1 Size 3
+Category ObTray
+Name MinX
+Value 0
+Att2 V01.00 Id 109 Parent 1 Size 3
+Category ObTray
+Name MinY
+Value 0
+Att2 V01.00 Id 110 Parent 1 Size 3
+Category ObTray
+Name MinZ
+Value 0
+Att2 V01.00 Id 111 Parent 1 Size 3
+Category ObTray
+Name MaxX
+Value 270
+Att2 V01.00 Id 112 Parent 1 Size 3
+Category ObTray
+Name MaxY
+Value 300
+Att2 V01.00 Id 113 Parent 1 Size 3
+Category ObTray
+Name MaxZ
+Value 200
+Att2 V01.00 Id 114 Parent 1 Size 3
+Category Resin Type
+Name Color
+Value TangoBlack+
+Att2 V01.00 Id 115 Parent 1 Size 3
+Category Resin Type
+Name UseResinInDMonly
+Value 0
+Att2 V01.00 Id 116 Parent 1 Size 3
+Category Resin Type
+Name UseResin2InDMonly
+Value 1
+Att2 V01.00 Id 117 Parent 1 Size 3
+Category Resin Type
+Name Resins Family 1
+Value 0
+Att2 V01.00 Id 118 Parent 1 Size 3
+Category Resin Type
+Name UseResin3InDMonly
+Value 1
+Att2 V01.00 Id 119 Parent 1 Size 3
+Category Resin Type
+Name Resins Family 2
+Value 2
+Att2 V01.00 Id 120 Parent 1 Size 3
+Category Resin Type
+Name Resins Family 3
+Value 2
+Att2 V01.00 Id 121 Parent 1 Size 3
+Category Resin Type
+Name Resins Family 4
+Value 6
+Att2 V01.00 Id 122 Parent 1 Size 3
+Category Resin Type
+Name Resin2
+Value RGD515
+Att2 V01.00 Id 123 Parent 1 Size 3
+Category Resin Type
+Name Resin3
+Value RGD531
+Att2 V01.00 Id 124 Parent 1 Size 3
+Category Resin Type
+Name Support
+Value FullCure705
+Att2 V01.00 Id 125 Parent 1 Size 3
+Category Resin Type
+Name Complex Resin 1
+Value RGD5131-DM
+Att2 V01.00 Id 126 Parent 1 Size 3
+Category Resin Type
+Name Complex Resin 2
+Value RGD5130-DM
+Att2 V01.00 Id 127 Parent 1 Size 3
+Category Resin Type
+Name Complex Resin 3
+Value FLX95595-DM
+Att2 V01.00 Id 128 Parent 1 Size 3
+Category Resin Type
+Name Complex Resin 4
+Value FLX95585-DM
+Att2 V01.00 Id 129 Parent 1 Size 3
+Category Resin Type
+Name Complex Resin 5
+Value FLX95570-DM
+Att2 V01.00 Id 130 Parent 1 Size 3
+Category Resin Type
+Name Complex Resin 6
+Value FLX95560-DM
+Att2 V01.00 Id 131 Parent 1 Size 3
+Category Resin Type
+Name Complex Resin 7
+Value FLX95550-DM
+Att2 V01.00 Id 132 Parent 1 Size 3
+Category Resin Type
+Name Complex Resin 8
+Value FLX95540-DM
+Att2 V01.00 Id 133 Parent 1 Size 3
+Category Tray
+Name Machine Version
+Value 2083
+Att2 V01.00 Id 134 Parent 1 Size 3
+Category Tray
+Name OrigPath
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Test2.objtf
+Att2 V01.00 Id 135 Parent 1 Size 3
+Category Job Properties
+Name Job Type
+Value 3
+Att2 V01.00 Id 136 Parent 1 Size 3
+Category FullCure720
+Name Do Hollow
+Value 0
+Att2 V01.00 Id 137 Parent 1 Size 3
+Category TangoBlack+
+Name Do Hollow
+Value 0
+Att2 V01.00 Id 138 Parent 1 Size 3
+Category RGD5131-DM
+Name Do Coating
+Value 3
+Att2 V01.00 Id 139 Parent 1 Size 3
+Category RGD5131-DM
+Name Do Hollow
+Value 0
+Att2 V01.00 Id 140 Parent 1 Size 3
+Category RGD5131-DM
+Name Coating Material
+Value RGD515
+Att2 V01.00 Id 141 Parent 1 Size 3
+Category RGD5131-DM
+Name Coating Thickness
+Value 0.08, 0.08, 0.08
+Att2 V01.00 Id 142 Parent 1 Size 3
+Category RGD5131-DM
+Name Coating Material1
+Value RND50-white
+Att2 V01.00 Id 143 Parent 1 Size 3
+Category RGD5131-DM
+Name Coating Thickness1
+Value 0.08, 0.08, 0.08
+Att2 V01.00 Id 144 Parent 1 Size 3
+Category RGD5131-DM
+Name Coating Material2
+Value RGD531
+Att2 V01.00 Id 145 Parent 1 Size 3
+Category RGD5131-DM
+Name Coating Thickness2
+Value 1.00, 1.00, 1.00
+Att2 V01.00 Id 146 Parent 1 Size 3
+Category RGD5130-DM
+Name Do Coating
+Value 3
+Att2 V01.00 Id 147 Parent 1 Size 3
+Category RGD5130-DM
+Name Do Hollow
+Value 0
+Att2 V01.00 Id 148 Parent 1 Size 3
+Category RGD5130-DM
+Name Coating Material
+Value RGD515
+Att2 V01.00 Id 149 Parent 1 Size 3
+Category RGD5130-DM
+Name Coating Thickness
+Value 0.24, 0.24, 0.24
+Att2 V01.00 Id 150 Parent 1 Size 3
+Category RGD5130-DM
+Name Coating Material1
+Value RND50-white
+Att2 V01.00 Id 151 Parent 1 Size 3
+Category RGD5130-DM
+Name Coating Thickness1
+Value 0.08, 0.08, 0.08
+Att2 V01.00 Id 152 Parent 1 Size 3
+Category RGD5130-DM
+Name Coating Material2
+Value RGD531
+Att2 V01.00 Id 153 Parent 1 Size 3
+Category RGD5130-DM
+Name Coating Thickness2
+Value 1.00, 1.00, 1.00
+Att2 V01.00 Id 154 Parent 1 Size 3
+Category FLX95595-DM
+Name Do Coating
+Value 0
+Att2 V01.00 Id 155 Parent 1 Size 3
+Category FLX95595-DM
+Name Do Hollow
+Value 0
+Att2 V01.00 Id 156 Parent 1 Size 3
+Category FLX95585-DM
+Name Do Coating
+Value 0
+Att2 V01.00 Id 157 Parent 1 Size 3
+Category FLX95585-DM
+Name Do Hollow
+Value 0
+Att2 V01.00 Id 158 Parent 1 Size 3
+Category FLX95570-DM
+Name Do Coating
+Value 0
+Att2 V01.00 Id 159 Parent 1 Size 3
+Category FLX95570-DM
+Name Do Hollow
+Value 0
+Att2 V01.00 Id 160 Parent 1 Size 3
+Category FLX95560-DM
+Name Do Coating
+Value 0
+Att2 V01.00 Id 161 Parent 1 Size 3
+Category FLX95560-DM
+Name Do Hollow
+Value 0
+Att2 V01.00 Id 162 Parent 1 Size 3
+Category FLX95550-DM
+Name Do Coating
+Value 0
+Att2 V01.00 Id 163 Parent 1 Size 3
+Category FLX95550-DM
+Name Do Hollow
+Value 0
+Att2 V01.00 Id 164 Parent 1 Size 3
+Category FLX95540-DM
+Name Do Coating
+Value 0
+Att2 V01.00 Id 165 Parent 1 Size 3
+Category FLX95540-DM
+Name Do Hollow
+Value 0
+Att2 V01.00 Id 166 Parent 1 Size 3
+Category Estimations HS_DJ
+Name Model Consumtion
+Value 6.5
+Att2 V01.00 Id 167 Parent 1 Size 3
+Category Estimations HS_DJ
+Name Second Model Consumtion
+Value 11.4
+Att2 V01.00 Id 168 Parent 1 Size 3
+Category Estimations HS_DJ
+Name Third Model Consumtion
+Value 18.1
+Att2 V01.00 Id 169 Parent 1 Size 3
+Category Estimations HS_DJ
+Name Support Consumtion
+Value 38.2
+Att2 V01.00 Id 170 Parent 1 Size 3
+Category Estimations HS_DJ
+Name Building Time
+Value 3078
+Att2 V01.00 Id 171 Parent 1 Size 3
+Category Estimations
+Name Third Model Consumtion
+Value 18.2
+Att2 V01.00 Id 172 Parent 1 Size 3
+Category Estimations
+Name x
+Value 252.9
+Att2 V01.00 Id 173 Parent 1 Size 3
+Category Estimations
+Name y
+Value 48.5
+Att2 V01.00 Id 174 Parent 1 Size 3
+Category Estimations
+Name z
+Value 9.9
+Att2 V01.00 Id 175 Parent 1 Size 3
+Category Estimations
+Name Model Consumtion
+Value 6.5
+Att2 V01.00 Id 176 Parent 1 Size 3
+Category Estimations
+Name Second Model Consumtion
+Value 11.5
+Att2 V01.00 Id 177 Parent 1 Size 3
+Category Estimations
+Name Support Consumtion
+Value 38.3
+Att2 V01.00 Id 178 Parent 1 Size 3
+Category Estimations
+Name Building Time
+Value 3078
+Att2 V01.00 Id 179 Parent 1 Size 3
+Category Save
+Name Product
+Value Objet Studio
+Att2 V01.00 Id 180 Parent 1 Size 3
+Category Save
+Name Version
+Value Version 12.0 Release (Build 1707), June-2009
+Att2 V01.00 Id 181 Parent 1 Size 3
+Category Save
+Name HaspName
+Value DEMO
+Att2 V01.00 Id 182 Parent 1 Size 3
+Category Save
+Name HaspSN
+Value Objet
+Att2 V01.00 Id 183 Parent 1 Size 3
+Category Save
+Name HaspID
+Value cda759d
+Extb V01.01 Id 184 Parent 1 Size 12
+File ...\Connex 260 Tray.STL
+Name 
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 185 Parent 184 Size 2
+Name LockMode
+Value 205823
+Attr V01.00 Id 186 Parent 184 Size 2
+Name BackFacePlane
+Value 0,0,1,-3.46945e-018
+Attr V01.00 Id 187 Parent 184 Size 2
+Name OrgFname
+Value C:\Program Files (x86)\ObjetStudio\GRender\Template\Models\Connex 260 Tray.STL
+Attr V01.00 Id 188 Parent 184 Size 2
+Name ObType
+Value Tray
+Attr V01.00 Id 189 Parent 184 Size 2
+Name ObTrayMin
+Value 0 , 0 , 0
+Attr V01.00 Id 190 Parent 184 Size 2
+Name ObTrayMax
+Value 258 , 255.8 , 205
+Attr V01.00 Id 191 Parent 184 Size 2
+Name Color
+Value &168:194:255
+Attr V01.00 Id 192 Parent 184 Size 2
+Name ObTrayMaxV
+Value 257.5 , 255 , 205
+Came V02.00 Id 193 Parent 1 Size 13
+Name=$curview
+EyeX=-358.748718
+EyeY=-409.358887
+EyeZ=489.000092
+TargetX=247.500046
+TargetY=196.889893
+TargetZ=-6
+PanX=0.014291
+PanY=0.068733
+ZoomX=2.133184
+ZoomY=3.839979
+Version=204
+.
+Grou V01.01 Id 194 Parent 1 Size 11
+Name Assembly39
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+8.86152e-007 -1 0 156.411514
+-1 -8.86152e-007 0 129.580322
+0 0 -1 26.630489
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 195 Parent 194 Size 2
+Name ObAssembly
+Value 1
+Attr V01.00 Id 196 Parent 194 Size 2
+Name Units
+Value 1000
+Attr V01.00 Id 197 Parent 194 Size 2
+Name Default Assembly Color Master
+Value RGD5131-DM
+Attr V01.00 Id 198 Parent 194 Size 2
+Name Auto Oriented
+Value 1
+Attr V01.00 Id 199 Parent 194 Size 2
+Name Color
+Value &50:50:50
+Attr V01.00 Id 200 Parent 194 Size 2
+Name State
+Value 4
+Extb V01.01 Id 201 Parent 194 Size 12
+File Top.stl
+Name 
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 202 Parent 201 Size 2
+Name OrigPath
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top.stl
+Attr V01.00 Id 203 Parent 201 Size 2
+Name Do Coating
+Value 0
+Attr V01.00 Id 204 Parent 201 Size 2
+Name Do Hollow
+Value 0
+Attr V01.00 Id 205 Parent 201 Size 2
+Name LockMode
+Value 1022
+Attr V01.00 Id 206 Parent 201 Size 2
+Name Color
+Value &208:208:208
+Attr V01.00 Id 207 Parent 201 Size 2
+Name ObMaterial
+Value RGD5131-DM
+Attr V01.00 Id 208 Parent 201 Size 2
+Name ObThickness
+Value 1 , 1 , 1, 1 , 1 , 0
+Attr V01.00 Id 209 Parent 201 Size 2
+Name Build Style
+Value 0
+Attr V01.00 Id 210 Parent 201 Size 2
+Name OrgFname
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top.stl
+Extb V01.01 Id 211 Parent 194 Size 12
+File Top-bouton-caoutchouc.stl
+Name 
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 212 Parent 211 Size 2
+Name OrigPath
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top-bouton-caoutchouc.stl
+Attr V01.00 Id 213 Parent 211 Size 2
+Name Do Coating
+Value 0
+Attr V01.00 Id 214 Parent 211 Size 2
+Name Do Hollow
+Value 0
+Attr V01.00 Id 215 Parent 211 Size 2
+Name LockMode
+Value 1022
+Attr V01.00 Id 216 Parent 211 Size 2
+Name Color
+Value &90:90:90
+Attr V01.00 Id 217 Parent 211 Size 2
+Name ObMaterial
+Value FLX95560-DM
+Attr V01.00 Id 218 Parent 211 Size 2
+Name ObThickness
+Value 1 , 1 , 1, 1 , 1 , 0
+Attr V01.00 Id 219 Parent 211 Size 2
+Name Build Style
+Value 0
+Attr V01.00 Id 220 Parent 211 Size 2
+Name OrgFname
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top-bouton-caoutchouc.stl
+Extb V01.01 Id 221 Parent 194 Size 12
+File Top-caoutchouc.stl
+Name 
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 222 Parent 221 Size 2
+Name OrigPath
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top-caoutchouc.stl
+Attr V01.00 Id 223 Parent 221 Size 2
+Name Do Coating
+Value 0
+Attr V01.00 Id 224 Parent 221 Size 2
+Name LockMode
+Value 1022
+Attr V01.00 Id 225 Parent 221 Size 2
+Name Do Hollow
+Value 0
+Attr V01.00 Id 226 Parent 221 Size 2
+Name Color
+Value &60:60:60
+Attr V01.00 Id 227 Parent 221 Size 2
+Name ObMaterial
+Value FLX95540-DM
+Attr V01.00 Id 228 Parent 221 Size 2
+Name ObThickness
+Value 1 , 1 , 1, 1 , 1 , 0
+Attr V01.00 Id 229 Parent 221 Size 2
+Name Build Style
+Value 0
+Attr V01.00 Id 230 Parent 221 Size 2
+Name OrgFname
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top-caoutchouc.stl
+Grou V01.01 Id 231 Parent 1 Size 11
+Name Assembly45
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+-1 -9.93477e-008 0 -6.067284
+-9.93477e-008 1 0 134.566422
+0 0 -1 26.630489
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 232 Parent 231 Size 2
+Name ObAssembly
+Value 1
+Attr V01.00 Id 233 Parent 231 Size 2
+Name Units
+Value 1000
+Attr V01.00 Id 234 Parent 231 Size 2
+Name Default Assembly Color Master
+Value RGD5131-DM
+Attr V01.00 Id 235 Parent 231 Size 2
+Name Auto Oriented
+Value 1
+Attr V01.00 Id 236 Parent 231 Size 2
+Name Color
+Value &50:50:50
+Attr V01.00 Id 237 Parent 231 Size 2
+Name State
+Value 4
+Extb V01.01 Id 238 Parent 231 Size 12
+File Top.stl
+Name 
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 239 Parent 238 Size 2
+Name OrigPath
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top.stl
+Attr V01.00 Id 240 Parent 238 Size 2
+Name Do Coating
+Value 0
+Attr V01.00 Id 241 Parent 238 Size 2
+Name Do Hollow
+Value 0
+Attr V01.00 Id 242 Parent 238 Size 2
+Name LockMode
+Value 1022
+Attr V01.00 Id 243 Parent 238 Size 2
+Name Color
+Value &208:208:208
+Attr V01.00 Id 244 Parent 238 Size 2
+Name ObMaterial
+Value RGD5131-DM
+Attr V01.00 Id 245 Parent 238 Size 2
+Name ObThickness
+Value 1 , 1 , 1, 1 , 1 , 0
+Attr V01.00 Id 246 Parent 238 Size 2
+Name Build Style
+Value 0
+Attr V01.00 Id 247 Parent 238 Size 2
+Name OrgFname
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top.stl
+Extb V01.01 Id 248 Parent 231 Size 12
+File Top-bouton-caoutchouc.stl
+Name 
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 249 Parent 248 Size 2
+Name OrigPath
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top-bouton-caoutchouc.stl
+Attr V01.00 Id 250 Parent 248 Size 2
+Name Do Coating
+Value 0
+Attr V01.00 Id 251 Parent 248 Size 2
+Name Do Hollow
+Value 0
+Attr V01.00 Id 252 Parent 248 Size 2
+Name LockMode
+Value 1022
+Attr V01.00 Id 253 Parent 248 Size 2
+Name Color
+Value &90:90:90
+Attr V01.00 Id 254 Parent 248 Size 2
+Name ObMaterial
+Value FLX95560-DM
+Attr V01.00 Id 255 Parent 248 Size 2
+Name ObThickness
+Value 1 , 1 , 1, 1 , 1 , 0
+Attr V01.00 Id 256 Parent 248 Size 2
+Name Build Style
+Value 0
+Attr V01.00 Id 257 Parent 248 Size 2
+Name OrgFname
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top-bouton-caoutchouc.stl
+Extb V01.01 Id 258 Parent 231 Size 12
+File Top-caoutchouc.stl
+Name 
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 259 Parent 258 Size 2
+Name OrigPath
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top-caoutchouc.stl
+Attr V01.00 Id 260 Parent 258 Size 2
+Name Do Coating
+Value 0
+Attr V01.00 Id 261 Parent 258 Size 2
+Name LockMode
+Value 1022
+Attr V01.00 Id 262 Parent 258 Size 2
+Name Do Hollow
+Value 0
+Attr V01.00 Id 263 Parent 258 Size 2
+Name Color
+Value &60:60:60
+Attr V01.00 Id 264 Parent 258 Size 2
+Name ObMaterial
+Value FLX95540-DM
+Attr V01.00 Id 265 Parent 258 Size 2
+Name ObThickness
+Value 1 , 1 , 1, 1 , 1 , 0
+Attr V01.00 Id 266 Parent 258 Size 2
+Name Build Style
+Value 0
+Attr V01.00 Id 267 Parent 258 Size 2
+Name OrgFname
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top-caoutchouc.stl
+Grou V01.01 Id 268 Parent 1 Size 11
+Name Assembly51
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+-4.37114e-007 -1 0 287.553864
+1 -4.37114e-007 0 334.631104
+0 0 1 1.000479
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 269 Parent 268 Size 2
+Name ObAssembly
+Value 1
+Attr V01.00 Id 270 Parent 268 Size 2
+Name Units
+Value 1000
+Attr V01.00 Id 271 Parent 268 Size 2
+Name Auto Oriented
+Value 1
+Attr V01.00 Id 272 Parent 268 Size 2
+Name Color
+Value &50:50:50
+Attr V01.00 Id 273 Parent 268 Size 2
+Name State
+Value 4
+Extb V01.01 Id 274 Parent 268 Size 12
+File Base.stl
+Name 
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 275 Parent 274 Size 2
+Name Do Coating
+Value 0
+Attr V01.00 Id 276 Parent 274 Size 2
+Name OrigPath
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Base.stl
+Attr V01.00 Id 277 Parent 274 Size 2
+Name Do Hollow
+Value 0
+Attr V01.00 Id 278 Parent 274 Size 2
+Name LockMode
+Value 1022
+Attr V01.00 Id 279 Parent 274 Size 2
+Name Color
+Value &208:208:208
+Attr V01.00 Id 280 Parent 274 Size 2
+Name ObMaterial
+Value RGD5131-DM
+Attr V01.00 Id 281 Parent 274 Size 2
+Name ObThickness
+Value 1 , 1 , 1, 1 , 1 , 0
+Attr V01.00 Id 282 Parent 274 Size 2
+Name Build Style
+Value 0
+Attr V01.00 Id 283 Parent 274 Size 2
+Name OrgFname
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Base.stl
+Extb V01.01 Id 284 Parent 268 Size 12
+File Base-caoutchouc.stl
+Name 
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 285 Parent 284 Size 2
+Name Do Coating
+Value 0
+Attr V01.00 Id 286 Parent 284 Size 2
+Name OrigPath
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Base-caoutchouc.stl
+Attr V01.00 Id 287 Parent 284 Size 2
+Name LockMode
+Value 1022
+Attr V01.00 Id 288 Parent 284 Size 2
+Name Do Hollow
+Value 0
+Attr V01.00 Id 289 Parent 284 Size 2
+Name Color
+Value &60:60:60
+Attr V01.00 Id 290 Parent 284 Size 2
+Name ObMaterial
+Value FLX95540-DM
+Attr V01.00 Id 291 Parent 284 Size 2
+Name ObThickness
+Value 1 , 1 , 1, 1 , 1 , 0
+Attr V01.00 Id 292 Parent 284 Size 2
+Name Build Style
+Value 2
+Attr V01.00 Id 293 Parent 284 Size 2
+Name OrgFname
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Base-caoutchouc.stl
+Grou V01.01 Id 294 Parent 1 Size 11
+Name Assembly52
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1.74846e-007 1 0 130.998734
+-1 1.74846e-007 0 124.032654
+0 0 1 1.000479
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 295 Parent 294 Size 2
+Name ObAssembly
+Value 1
+Attr V01.00 Id 296 Parent 294 Size 2
+Name Units
+Value 1000
+Attr V01.00 Id 297 Parent 294 Size 2
+Name Auto Oriented
+Value 1
+Attr V01.00 Id 298 Parent 294 Size 2
+Name Color
+Value &50:50:50
+Attr V01.00 Id 299 Parent 294 Size 2
+Name State
+Value 4
+Extb V01.01 Id 300 Parent 294 Size 12
+File Base.stl
+Name 
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 301 Parent 300 Size 2
+Name Do Coating
+Value 0
+Attr V01.00 Id 302 Parent 300 Size 2
+Name OrigPath
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Base.stl
+Attr V01.00 Id 303 Parent 300 Size 2
+Name Do Hollow
+Value 0
+Attr V01.00 Id 304 Parent 300 Size 2
+Name LockMode
+Value 1022
+Attr V01.00 Id 305 Parent 300 Size 2
+Name Color
+Value &208:208:208
+Attr V01.00 Id 306 Parent 300 Size 2
+Name ObMaterial
+Value RGD5131-DM
+Attr V01.00 Id 307 Parent 300 Size 2
+Name ObThickness
+Value 1 , 1 , 1, 1 , 1 , 0
+Attr V01.00 Id 308 Parent 300 Size 2
+Name Build Style
+Value 0
+Attr V01.00 Id 309 Parent 300 Size 2
+Name OrgFname
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Base.stl
+Extb V01.01 Id 310 Parent 294 Size 12
+File Base-caoutchouc.stl
+Name 
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 311 Parent 310 Size 2
+Name Do Coating
+Value 0
+Attr V01.00 Id 312 Parent 310 Size 2
+Name OrigPath
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Base-caoutchouc.stl
+Attr V01.00 Id 313 Parent 310 Size 2
+Name LockMode
+Value 1022
+Attr V01.00 Id 314 Parent 310 Size 2
+Name Do Hollow
+Value 0
+Attr V01.00 Id 315 Parent 310 Size 2
+Name Color
+Value &60:60:60
+Attr V01.00 Id 316 Parent 310 Size 2
+Name ObMaterial
+Value FLX95540-DM
+Attr V01.00 Id 317 Parent 310 Size 2
+Name ObThickness
+Value 1 , 1 , 1, 1 , 1 , 0
+Attr V01.00 Id 318 Parent 310 Size 2
+Name Build Style
+Value 2
+Attr V01.00 Id 319 Parent 310 Size 2
+Name OrgFname
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Base-caoutchouc.stl
+Grou V01.01 Id 320 Parent 1 Size 11
+Name Assembly53
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 -9.93477e-008 0 247.097076
+9.93477e-008 1 0 131.651703
+0 0 1 1.000479
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 321 Parent 320 Size 2
+Name ObAssembly
+Value 1
+Attr V01.00 Id 322 Parent 320 Size 2
+Name Units
+Value 1000
+Attr V01.00 Id 323 Parent 320 Size 2
+Name Auto Oriented
+Value 1
+Attr V01.00 Id 324 Parent 320 Size 2
+Name Color
+Value &50:50:50
+Attr V01.00 Id 325 Parent 320 Size 2
+Name State
+Value 4
+Extb V01.01 Id 326 Parent 320 Size 12
+File Base.stl
+Name 
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 327 Parent 326 Size 2
+Name Do Coating
+Value 0
+Attr V01.00 Id 328 Parent 326 Size 2
+Name OrigPath
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Base.stl
+Attr V01.00 Id 329 Parent 326 Size 2
+Name Do Hollow
+Value 0
+Attr V01.00 Id 330 Parent 326 Size 2
+Name LockMode
+Value 1022
+Attr V01.00 Id 331 Parent 326 Size 2
+Name Color
+Value &208:208:208
+Attr V01.00 Id 332 Parent 326 Size 2
+Name ObMaterial
+Value RGD5131-DM
+Attr V01.00 Id 333 Parent 326 Size 2
+Name ObThickness
+Value 1 , 1 , 1, 1 , 1 , 0
+Attr V01.00 Id 334 Parent 326 Size 2
+Name Build Style
+Value 0
+Attr V01.00 Id 335 Parent 326 Size 2
+Name OrgFname
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Base.stl
+Extb V01.01 Id 336 Parent 320 Size 12
+File Base-caoutchouc.stl
+Name 
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 337 Parent 336 Size 2
+Name Do Coating
+Value 0
+Attr V01.00 Id 338 Parent 336 Size 2
+Name OrigPath
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Base-caoutchouc.stl
+Attr V01.00 Id 339 Parent 336 Size 2
+Name LockMode
+Value 1022
+Attr V01.00 Id 340 Parent 336 Size 2
+Name Do Hollow
+Value 0
+Attr V01.00 Id 341 Parent 336 Size 2
+Name Color
+Value &60:60:60
+Attr V01.00 Id 342 Parent 336 Size 2
+Name ObMaterial
+Value FLX95540-DM
+Attr V01.00 Id 343 Parent 336 Size 2
+Name ObThickness
+Value 1 , 1 , 1, 1 , 1 , 0
+Attr V01.00 Id 344 Parent 336 Size 2
+Name Build Style
+Value 2
+Attr V01.00 Id 345 Parent 336 Size 2
+Name OrgFname
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Base-caoutchouc.stl
+Grou V01.01 Id 346 Parent 1 Size 11
+Name Assembly54
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+8.86152e-007 -1 0 118.878105
+-1 -8.86152e-007 0 129.580322
+0 0 -1 26.630489
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 347 Parent 346 Size 2
+Name ObAssembly
+Value 1
+Attr V01.00 Id 348 Parent 346 Size 2
+Name Units
+Value 1000
+Attr V01.00 Id 349 Parent 346 Size 2
+Name Default Assembly Color Master
+Value RGD5131-DM
+Attr V01.00 Id 350 Parent 346 Size 2
+Name Auto Oriented
+Value 1
+Attr V01.00 Id 351 Parent 346 Size 2
+Name Color
+Value &60:20:220
+Attr V01.00 Id 352 Parent 346 Size 2
+Name State
+Value 4
+Extb V01.01 Id 353 Parent 346 Size 12
+File Top.stl
+Name 
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 354 Parent 353 Size 2
+Name OrigPath
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top.stl
+Attr V01.00 Id 355 Parent 353 Size 2
+Name Do Coating
+Value 0
+Attr V01.00 Id 356 Parent 353 Size 2
+Name Do Hollow
+Value 0
+Attr V01.00 Id 357 Parent 353 Size 2
+Name LockMode
+Value 1022
+Attr V01.00 Id 358 Parent 353 Size 2
+Name Color
+Value &60:20:220
+Attr V01.00 Id 359 Parent 353 Size 2
+Name ObMaterial
+Value RGD5131-DM
+Attr V01.00 Id 360 Parent 353 Size 2
+Name ObThickness
+Value 1 , 1 , 1, 1 , 1 , 0
+Attr V01.00 Id 361 Parent 353 Size 2
+Name Build Style
+Value 0
+Attr V01.00 Id 362 Parent 353 Size 2
+Name OrgFname
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top.stl
+Extb V01.01 Id 363 Parent 346 Size 12
+File Top-bouton-caoutchouc.stl
+Name 
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 364 Parent 363 Size 2
+Name OrigPath
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top-bouton-caoutchouc.stl
+Attr V01.00 Id 365 Parent 363 Size 2
+Name Do Coating
+Value 0
+Attr V01.00 Id 366 Parent 363 Size 2
+Name Do Hollow
+Value 0
+Attr V01.00 Id 367 Parent 363 Size 2
+Name LockMode
+Value 1022
+Attr V01.00 Id 368 Parent 363 Size 2
+Name Color
+Value &60:20:220
+Attr V01.00 Id 369 Parent 363 Size 2
+Name ObMaterial
+Value FLX95560-DM
+Attr V01.00 Id 370 Parent 363 Size 2
+Name ObThickness
+Value 1 , 1 , 1, 1 , 1 , 0
+Attr V01.00 Id 371 Parent 363 Size 2
+Name Build Style
+Value 0
+Attr V01.00 Id 372 Parent 363 Size 2
+Name OrgFname
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top-bouton-caoutchouc.stl
+Extb V01.01 Id 373 Parent 346 Size 12
+File Top-caoutchouc.stl
+Name 
+Center 0 0 0
+X Axis 1 0 0
+Y Axis 0 1 0
+Z Axis 0 0 1
+Transform
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Visible TRUE
+Attr V01.00 Id 374 Parent 373 Size 2
+Name OrigPath
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top-caoutchouc.stl
+Attr V01.00 Id 375 Parent 373 Size 2
+Name Do Coating
+Value 0
+Attr V01.00 Id 376 Parent 373 Size 2
+Name LockMode
+Value 1022
+Attr V01.00 Id 377 Parent 373 Size 2
+Name Do Hollow
+Value 0
+Attr V01.00 Id 378 Parent 373 Size 2
+Name Color
+Value &60:20:220
+Attr V01.00 Id 379 Parent 373 Size 2
+Name ObMaterial
+Value FLX95540-DM
+Attr V01.00 Id 380 Parent 373 Size 2
+Name ObThickness
+Value 1 , 1 , 1, 1 , 1 , 0
+Attr V01.00 Id 381 Parent 373 Size 2
+Name Build Style
+Value 0
+Attr V01.00 Id 382 Parent 373 Size 2
+Name OrgFname
+Value C:\Users\CUI\Desktop\Boris Conforty 3D-case\Top-caoutchouc.stl
+END  V01.00 Id 383 Parent 0 Size 0
