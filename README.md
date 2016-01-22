@@ -2,6 +2,7 @@
 ##OpenBeacon proximity tag case##
 
 ![alt tag](Preview.png)
+![alt tag](Preview.jpg)
 
 Taking part in a study involving 70 participants, and having no available case fitting our needs for the proximity tag we'd use, we decided to design our own.
 
