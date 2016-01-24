@@ -25,7 +25,7 @@ We didn't need a case:
 
 **3D-Printing**
 
-The case was printed at the [Centre universitaire d'informatique](http://www.cui.unige.ch/en/), Geneva University by a Stratasys [Objet260](http://www.stratasys.com/3d-printers/design-series/objet260-connex3). Thanks to Daniel Agulleiro for his great advices and help.
+The case was printed at the [Centre universitaire d'informatique](http://www.cui.unige.ch/en/), Geneva University, by a Stratasys [Objet260](http://www.stratasys.com/3d-printers/design-series/objet260-connex3). Thanks to Daniel Agulleiro for his great advices and help.
 
 The printer used allows printing several materials at once, with different softness and color. All materials are polymerized together, giving absolutely great results.
 
