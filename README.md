@@ -29,6 +29,7 @@ The case was printed at the [Centre universitaire d'informatique](http://www.cui
 
 The printer used allows printing several materials at once, with different softness and color. All materials are polymerized together, giving absolutely great results.
 
+![alt tag](CaseOpen.jpg)
 ![alt tag](CaseFrancFront.jpg)
 ![alt tag](CaseFrancBack.jpg)
 ![alt tag](CaseFrancSide.jpg)
