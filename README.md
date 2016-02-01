@@ -1,8 +1,9 @@
 # openbeacon-case
 ##OpenBeacon proximity tag case##
 
-![alt tag](Preview.png)
-![alt tag](Preview.jpg)
+![alt tag](PreviewTop.png)
+![alt tag](PreviewTopLeft.png)
+![alt tag](PreviewFront.png)
 
 Taking part in a study involving 70 participants, and having no available case fitting our needs for the proximity tag we'd use, we decided to design our own.
 
