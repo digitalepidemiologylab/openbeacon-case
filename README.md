@@ -11,7 +11,7 @@ Technical details about the tag can be found on [OpenBeacon.org](http://get.open
 Our main challenges were:
 
 - **Maximize the compliance of hospital personals and patients taking part in our planned study.** To help achieve the best possible compliance, the case should have a dedicated space to hold a sticker with the hospital logo, and should be nice-looking of course.
-- **Have a tag that could be hooked to a lanyard.**
+- **Have a tag that could be hooked to a lanyard or hooked to a safety pin.**
 - **The case should be relatively easy to open and close, but not too much so.** Easy for battery replacement or whenever direct access to the PCB is needed, but not so easy that no tool is needed.
 - **The case should be somewhat waterproof.**
 - **The button on the PCB should be accessible.**
@@ -27,8 +27,15 @@ We didn't need a case:
 
 The case was printed at the [Centre universitaire d'informatique](http://www.cui.unige.ch/en/), Geneva University, by a Stratasys [Objet260](http://www.stratasys.com/3d-printers/design-series/objet260-connex3). Thanks to Daniel Agulleiro for his great advices and help.
 
-The printer used allows printing several materials at once, with different softness and color. All materials are polymerized together, giving absolutely great results.
+The printer used allows printing several materials at once, with different softness and color. All materials are polymerized together, giving absolutely great results. All parts are printed mate (as opposed to glossy).
 
+Materials used:
+- White parts: RGD515 + RGD531 (Ivory)
+- Button rubber part: Tango Black+ xxxxx60
+- All other black parts: Tango Black+ xxxxx40
+
+![alt tag](CaseFront.jpg)
+![alt tag](CaseBack.jpg)
 ![alt tag](CaseOpen.jpg)
 ![alt tag](CaseFrancFront.jpg)
 ![alt tag](CaseFrancBack.jpg)
